@@ -1,2 +1,2 @@
 # Welcome
-My name is yordan; I code for a living.
+My name is Yordan; I code for a living.
